@@ -1,0 +1,25 @@
+.title1 {
+  margin-bottom: 2%;
+  color: black;
+}
+.form1 {
+  width: 50%;
+  margin: auto;
+}
+
+.form1 label {
+  display: flex;
+  text-align: left;
+}
+
+.w3-input {
+  margin-bottom: 2%;
+}
+
+.income-table {
+  margin-top: 2%;
+}
+
+.total-amount {
+  margin-top: 2%;
+}

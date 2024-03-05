@@ -1,0 +1,18 @@
+.title1 {
+  margin-bottom: 2%;
+  color: black;
+}
+
+.form1 {
+  width: 50%;
+  margin: auto;
+}
+
+.form1 label {
+  display: flex;
+  text-align: left;
+}
+
+.expense-table {
+  margin-top: 2%;
+}
